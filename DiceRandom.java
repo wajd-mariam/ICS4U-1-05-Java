@@ -1,5 +1,4 @@
 /*
-* Copyright (c) 2020
 *
 * This guessing game program asks the user
 * to guess a randomly generated number within a 
